@@ -1,0 +1,10 @@
+#standard,
+#standard-multiline-flexible {
+  width: 80vh;
+  border-radius: 15px;
+}
+
+.css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 400px !important;
+  width: 80vh !important;
+}
